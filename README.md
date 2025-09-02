@@ -39,4 +39,4 @@ Permite adicionar, editar e excluir tarefas, além de selecionar o dia da semana
 1. Clone este repositório:
 
 ```bash
-git clone https://github.com/SEU_USUARIO/minhas-tarefas.git
+git clone https://github.com/matheussv29/Tarefas-Da-Semana.git
